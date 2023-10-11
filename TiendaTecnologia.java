@@ -29,7 +29,7 @@ public class TiendaTecnologia {
         cliente.verCatalogo(catalogo);
             int opc;
             do{
-                System.out.println("¿Qué desea hacer?"); 
+                System.out.println("__Menu Tienda Usuario___"); 
                 System.out.println("1. Agregar Producto"); 
                 System.out.println("2. Ver Carrito"); 
                 System.out.println("3. Pagar en caja"); 
